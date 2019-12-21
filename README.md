@@ -7,10 +7,14 @@ We used the *D3.js* library to create our visualizations. The goal of the dashbo
 
 ##### Dashboard - Primary Type
 ![](https://github.com/parker-siroishka/Pokemon-Data-Dashboard/blob/master/readme%20Media/dashboard.PNG)
+Initially the gravitational forces of the individual nodes will be oriented to their primary type.
 
 ##### Dashboard - Secondary Type
 ![](https://github.com/parker-siroishka/Pokemon-Data-Dashboard/blob/master/readme%20Media/dashboardSecondary.PNG)
+Upon changing the filter to secondary type, the gravitational forces will change as well, moving the nodes across the screen to their new location
 
+##### Select Pokemon - Compare Stats
+![](https://github.com/parker-siroishka/Pokemon-Data-Dashboard/blob/master/readme%20Media/radarChart.PNG)
 
 
 #### How to run
