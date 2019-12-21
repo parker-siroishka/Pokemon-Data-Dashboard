@@ -5,6 +5,9 @@ As a group we were tasked with finding an interesting dataset to work with and v
 
 We used the *D3.js* library to create our visualizations. The goal of the dashboard was to have a centralized location where knowledgable players of the game can go to search out and compare two different Pokémon and their attributes.
 
+![alt text](https://raw.githubusercontent.com/parker-siroishka/Pokemon-Data-Dashboard/master/"readme Media"/dashboard.png)
+
+
 #### How to run
 Either:
 - Setup a local HTTP server
